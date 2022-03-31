@@ -1,2 +1,4 @@
-# Repositório do Desafio de Projeto Git/GitHub da DIO
-Primeiro desafio de projeto sobre Git/GitHub da DIO.
+# Desafio 1º Repositório Git/GitHub da DIO
+
+## Cursos:
+- [:thought_balloon: Pensamento Computacional](./pensamento-computacional)
