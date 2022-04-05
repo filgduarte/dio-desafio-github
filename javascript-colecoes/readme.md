@@ -28,9 +28,9 @@ Isso gera o seguinte resultado:
 Além de definir manualmente os valores de um Map, é possível inicializar um Map já com valores através de uma Matriz de Matrizes:
 
     const map = new Map([
-        ['firstName'], ['Luke'],
-        ['lastName'], ['Skywalker'],
-        ['occupation'], ['Jedi Knight'],
+        ['firstName', 'Luke'],
+        ['lastName', 'Skywalker'],
+        ['occupation', 'Jedi Knight'],
     ])
 
 ## Convertendo Maps, Objetos e Arrays:
