@@ -1,4 +1,4 @@
-# :mag_right: Map, Filter e Reduce
+# :mag_right: MAP, FILTER E REDUCE
 
 São três métodos importantes para lidar com Arrays.
 

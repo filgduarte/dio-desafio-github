@@ -1,4 +1,4 @@
-# :capital_abcd: JAVASCRIPT - COLEÇÕES
+# :capital_abcd: COLEÇÕES
 
 O ES6 introduziu dois novos tipos de objetos iteráveis: **Maps**, que são coleções ordenadas de pares chave-valor e **Sets**, que são coleções de valores únicos.
 

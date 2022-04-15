@@ -1,4 +1,4 @@
-# :o2: Orientação a Objetos
+# :o2: ORIENTAÇÃO A OBJETOS
 
 A programação tem dois paradigmas:
 - **Imperativo:** foca em como você vai resolver os problemas.Ex.: Programação Orientada a Objetos e Programação Procedural.
