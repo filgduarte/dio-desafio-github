@@ -1,4 +1,4 @@
-# :bug: TRATAMENTO DE ERROS
+# :lady_beetle: TRATAMENTO DE ERROS
 
 # Tipos de erros
 - **ECMASCript Error:** Erros que ocorrem em tempo de execução. Composto por mensagem, nome, linha e call stack

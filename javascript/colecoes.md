@@ -195,7 +195,7 @@ A declaração acima irá resultar em:
 
 É possível converter um Set em Matriz com apenas uma linha de código:
 
-    const arr = [ ...set]
+    const arr = [...set]
 
 Os Sets possuem muitos dos mesmos métodos e propriedados do Mapa, incluindo `delete()`, `has()`, `size` e `clear`, mas não possui um método de acessar um valor por chave ou índice como `map.get(key)` ou `arr[index]`.
 
