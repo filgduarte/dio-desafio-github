@@ -7,4 +7,3 @@
 - [:o2: Orientação a Objetos](orientacao-objetos.md)
 - [:mag_right: Map, Filter, Reduce](map-filter-reduce.md)
 - [:deciduous_tree: Manipulando o DOM](dom.md)
-- [:atom_symbol: ReactJS](react-js.md)

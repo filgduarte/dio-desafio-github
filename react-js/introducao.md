@@ -1,4 +1,5 @@
-# :atom_symbol: REACTJS
+# :atom_symbol: REACTJS - INTRODUÇÃO
+:link: https://pt-br.reactjs.org/docs/getting-started.html
 
 O ReactJS é uma biblioteca JavaScript para criar interfaces de usuário.
 
@@ -88,7 +89,7 @@ Importante notar que o React atualiza somente o necessário. O React DOM compara
 
 Inspecionando o exemplo anterior, teríamos:
 
-![Atualização](react-js/react-dom-updates.gif)
+![Atualização](introducao/react-dom-updates.gif)
 
 # Componentes e Props:
 Componentes permitem dividir a UI em partes independentes, reutilizáveis e pensar em cada parte isoladamente.
@@ -120,12 +121,14 @@ Por exemplo, esse código renderiza “Olá, Sara” na página:
     );
 
 # Estados e Ciclo de Vida
-O React possui 4 estados:
-- Inicialização
-- Montagem
-- Atualização
-- Desmontagem
+No React um `State` é onde são guardados os dados de um componente. Um exemplo seria um menu dropdown, que tem os estados "aberto" e "fechado".
 
 Nenhum componente pai ou filho deve saber se outro componente possui estado ou não.
 
 O estado é apenas local ao componente e caso seja necessário enviar algum atributo para outro, isso é feito via props.
+
+O ciclo de vida do React possui 4 estados:
+- Inicialização
+- Montagem
+- Atualização
+- Desmontagem
