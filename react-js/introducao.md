@@ -1,4 +1,4 @@
-# :atom_symbol: REACTJS - INTRODUÇÃO
+# :triangular_flag_on_post: REACTJS - INTRODUÇÃO
 :link: https://pt-br.reactjs.org/docs/getting-started.html
 
 O ReactJS é uma biblioteca JavaScript para criar interfaces de usuário.

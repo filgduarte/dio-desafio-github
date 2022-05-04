@@ -1,4 +1,4 @@
-# :atom_symbol: CONCEITOS APLICADOS AOS TIPOS DE DADOS E CONDIÇÕES DA BIBLIOTECA
+# :page_with_curl: CONCEITOS APLICADOS AOS TIPOS DE DADOS E CONDIÇÕES DA BIBLIOTECA
 
 # Renderização condicional:
 Para exibir um Elemento caso uma determinada condição seja verdadeira, utiliza-se o operador lógico `&&`. No exemplo abaixo, como a variável `hasCustommer` é `true`, será exibido o texto e botão abaixo do título.

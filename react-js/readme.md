@@ -1,6 +1,7 @@
 # :atom_symbol: REACTJS
 
-- [:page_facing_up: Introdução](introducao.md)
+- [:triangular_flag_on_post: Introdução](introducao.md)
 - [:package: Webpack](webpack.md)
-- [:atom_symbol: Conceitos aplicados aos tipos de dados e condições da biblioteca](dados-condicoes.md)
+- [:page_with_curl: Conceitos aplicados aos tipos de dados e condições da biblioteca](dados-condicoes.md)
 - [:bricks: Trabalhando com Componentes](componentes.md)
+- [:atom_symbol: Introdução a React com Redux](redux.md)
